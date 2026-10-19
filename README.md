@@ -14,6 +14,7 @@ The goal is to understand potential business logic flaws in email validation, ac
 - Automatically fills in registration form fields.
 - Helps explore how websites validate email addresses.
 - Demonstrates basic web automation and application security testing concepts.
+- Please adjust some lines on the code
 
 ## How It Works
 
