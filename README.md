@@ -14,7 +14,7 @@ The goal is to understand potential business logic flaws in email validation, ac
 - Automatically fills in registration form fields.
 - Helps explore how websites validate email addresses.
 - Demonstrates basic web automation and application security testing concepts.
-- Please adjust some lines on the code
+
 
 ## How It Works
 
@@ -43,7 +43,8 @@ pip install selenium
 
 1. Clone or download this repository.
 2. Install the required dependency.
-3. Run the script:
+3. Please sometimes don't forget to adjust some lines on the code
+4. Run the script:
 
 ```bash
 python main.py
